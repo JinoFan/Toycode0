@@ -1,0 +1,95 @@
+{
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "logo_png,noeye_png,player_png,start_jpg,background_jpg,bar_png,bigeye_png,bonus_png,bottom_png,circleBack_png,circleFront_png,hint_png,hit_m4a,perfect_m4a,swooshing_m4a,wing_m4a,die_m4a"
+		}
+	],
+	"resources": [
+		{
+			"name": "logo_png",
+			"type": "image",
+			"url": "assets/logo.png"
+		},
+		{
+			"name": "noeye_png",
+			"type": "image",
+			"url": "assets/noeye.png"
+		},
+		{
+			"name": "player_png",
+			"type": "image",
+			"url": "assets/player.png"
+		},
+		{
+			"name": "start_jpg",
+			"type": "image",
+			"url": "assets/start.jpg"
+		},
+		{
+			"name": "background_jpg",
+			"type": "image",
+			"url": "assets/background.jpg"
+		},
+		{
+			"name": "bar_png",
+			"type": "image",
+			"url": "assets/bar.png"
+		},
+		{
+			"name": "bigeye_png",
+			"type": "image",
+			"url": "assets/bigeye.png"
+		},
+		{
+			"name": "bonus_png",
+			"type": "image",
+			"url": "assets/bonus.png"
+		},
+		{
+			"name": "bottom_png",
+			"type": "image",
+			"url": "assets/bottom.png"
+		},
+		{
+			"name": "circleBack_png",
+			"type": "image",
+			"url": "assets/circleBack.png"
+		},
+		{
+			"name": "circleFront_png",
+			"type": "image",
+			"url": "assets/circleFront.png"
+		},
+		{
+			"name": "hint_png",
+			"type": "image",
+			"url": "assets/hint.png"
+		},
+		{
+			"name": "hit_m4a",
+			"type": "sound",
+			"url": "assets/sound/hit.m4a"
+		},
+		{
+			"name": "perfect_m4a",
+			"type": "sound",
+			"url": "assets/sound/perfect.m4a"
+		},
+		{
+			"name": "swooshing_m4a",
+			"type": "sound",
+			"url": "assets/sound/swooshing.m4a"
+		},
+		{
+			"name": "wing_m4a",
+			"type": "sound",
+			"url": "assets/sound/wing.m4a"
+		},
+		{
+			"name": "die_m4a",
+			"type": "sound",
+			"url": "assets/sound/die.m4a"
+		}
+	]
+}
